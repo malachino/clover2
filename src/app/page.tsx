@@ -18,7 +18,7 @@ function App() {
             <ul>
                 <li><a><button type="button" onClick={() => router.push('/Home'           )}> C L O V E R   </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/Home'           )}> Home          </button></a></li>
-                <li><a><button type="button" onClick={() => router.push('/Things_To_Read' )}> Things to Read</button></a></li>
+                <li><a><button type="button" onClick={() => router.push('/Things_to_Read' )}> Things to Read</button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/Extras'         )}> Extras        </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/About'          )}> About         </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/Contact_Me'     )}> Contact Me    </button></a></li>
