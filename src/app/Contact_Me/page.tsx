@@ -29,8 +29,8 @@ function App() {
             <h1>Contact Me</h1>
         </main>
         <pre>
-                Email:      maldbad@outlook.com <br></br>
-                LinkedIn:   <a href='https://www.linkedin.com/in/malachi-o/'>linkedin.com/malachi-o</a>
+                Email:       maldbad@outlook.com <br></br>
+                LinkedIn:  <a href='https://www.linkedin.com/in/malachi-o/'>linkedin.com/malachi-o</a>
         </pre>
         {/* ///////////////////////////////////////////////////////////////////////////////////// */}
       </body>

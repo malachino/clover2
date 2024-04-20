@@ -29,9 +29,17 @@ function App() {
             <main>
                 <h1>Things to Read</h1>
                 <pre>
-                    <a href='https://www.google.com/'>Leave to Google</a> <br></br><br></br>
-                    <a href='https://www.google.com/'>Leave to Google</a> <br></br><br></br>
-                    <a href='https://www.google.com/'>Leave to Google</a> <br></br><br></br>
+                    <a href='https://www.youtube.com/@3blue1brown'>3Blue1Brown</a> <br></br>
+                    <a href='https://www.youtube.com/@HistoriaCivilis'>Historia Civilis</a> <br></br>
+                    <a href='https://www.youtube.com/@Vsauce'>Vsauce</a> <br></br>
+                    <a href='https://www.youtube.com/@Pomplamoose'>Pomplamoose</a> <br></br>
+                    <a href='https://www.youtube.com/@shadowatnoon/videos'>shadowatnoon</a> <br></br>
+                    <a href='https://www.youtube.com/@ScaryPockets'>Scary Pockets</a> <br></br>
+                    <a href='https://www.youtube.com/@jayskullz'>jay skullz</a> <br></br>
+                    <a href='https://www.youtube.com/@vlogbrothers'>vlogbrothers</a> <br></br>
+                    <a href='https://www.youtube.com/@AlvinKZhou'>Alvin Zhou</a> <br></br>
+                    <a href='https://www.youtube.com/@FrugalAesthetic'>Frugal Aesthetic</a> <br></br>
+                    
                 </pre>
             </main>
         {/* ///////////////////////////////////////////////////////////////////////////////////// */}
