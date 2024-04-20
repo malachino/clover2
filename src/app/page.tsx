@@ -21,7 +21,7 @@ function App() {
                 <li><a><button type="button" onClick={() => router.push('/Extras'         )}> Extras        </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/About'          )}> About         </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/Contact'        )}> Contact       </button></a></li>
-                <li><a><button type="button" onClick={() => router.push('/Things_to_Read' )}> Things to Read</button></a></li>
+                <li><a><button type="button" onClick={() => router.push('/Things_To_Read' )}> Things to Read</button></a></li>
             </ul>
         </nav>
 

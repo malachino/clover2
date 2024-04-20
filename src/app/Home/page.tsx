@@ -4,7 +4,7 @@ import React from 'react';
 
 import { useRouter } from 'next/navigation'
 
-import './globals.css';
+import '../globals.css';
 import cookie from './images/cookie.png'
 import controller from './images/controller.png'
 import headphones from './images/headphones.png'
@@ -21,11 +21,12 @@ function App() {
                 <li><a><button type="button" onClick={() => router.push('/Extras'         )}> Extras        </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/About'          )}> About         </button></a></li>
                 <li><a><button type="button" onClick={() => router.push('/Contact'        )}> Contact       </button></a></li>
-                <li><a><button type="button" onClick={() => router.push('/Things_to_Read' )}> Things to Read</button></a></li>
+                <li><a><button type="button" onClick={() => router.push('/Things_To_Read' )}> Things to Read</button></a></li>
             </ul>
         </nav>
-
+        {/* ///////////////////////////////////////////////////////////////////////////////////// */}
         <main>
+            <h1>Home</h1>
             <h2>Hello!</h2>
             <p>
             My name is Malachi. I like making stuff, from music to games to cookies.          <br></br>
@@ -53,6 +54,7 @@ function App() {
                     />
             </p>
         </main>
+        {/* ///////////////////////////////////////////////////////////////////////////////////// */}
       </body>
   );
 }
