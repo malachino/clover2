@@ -3,11 +3,13 @@ import Image from "next/image";
 import React from 'react';
 
 
-import cookie from './cookie.png'
-import controller from './controller.png'
-import headphones from './headphones.png'
+import cookie from './images/cookie.png'
+import controller from './images/controller.png'
+import headphones from './images/headphones.png'
 
 import './globals.css';
+
+declare module "*.png" 
 
 function App() {
   
@@ -20,12 +22,11 @@ function App() {
 
         <nav className='TopBar'>
             <ul>
-                <li><b ref=''>C L O V E R</b></li>
-
-                <li><a href='https://honeysuckle-plum.vercel.app/'>Home</a></li>
-                <li><a href='https://honeysuckle-plum.vercel.app/'>Extras</a></li>
-                <li><a href='https://honeysuckle-plum.vercel.app/'>About</a></li>
-                <li><a href='https://honeysuckle-plum.vercel.app/'>Contact</a></li>
+                <li><a href='http://localhost:3000/'>C L O V E R</a></li>
+                <li><a href='http://localhost:3000/'>Home</a></li>
+                <li><a href='http://localhost:3000/'>Extras</a></li>
+                <li><a href='http://localhost:3000/'>About</a></li>
+                <li><a href='http://localhost:3000/'>Contact</a></li>
                 <li><a href='https://www.google.com/'>Leave to Google</a></li>
             </ul>
         </nav>
@@ -39,9 +40,28 @@ function App() {
             
             {/* <h1 className='text-x1 font-bold mt-4'>Which do you like the best?</h1>
              */}
-            <img src={headphones} alt="" />  
-            <img src={cookie} alt="" />          
-            <img src={controller} alt="" />
+            
+              <Image
+                  src="/images/headphones.png"
+                  width={200}
+                  height={200}
+                  alt="headphones"
+              />  
+
+              <Image
+                  src="/images/cookie.png"
+                  width={200}
+                  height={200}
+                  alt="cookie"
+              />
+
+              <Image
+                  src="/images/controller.png"
+                  width={200}
+                  height={200}
+                  alt="controller"
+              />
+            
         </main>
             
             
