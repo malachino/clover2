@@ -26,32 +26,10 @@ function App() {
         </nav>
 
         <main>
-            <h2>Hello!</h2>
-            <p>
-            My name is Malachi. I like making stuff, from music to games to cookies.          <br></br>
-            Incidentally, I also like listening to music, playing games, and eating cookies.  <br></br>
-            
-                <Image className="img"
-                    src="/images/headphones.png"
-                    width={80}
-                    height={80}
-                    alt="headphones"
-                />  
-
-                <Image className="img"
-                    src="/images/cookie.png"
-                    width={80}
-                    height={80}
-                    alt="cookie"
-                    />
-
-                <Image className="img"
-                    src="/images/controller.png"
-                    width={80}
-                    height={80}
-                    alt="controller"
-                    />
-            </p>
+            <title>
+                Hello!
+            </title>
+            <li><a href='https://www.google.com/'>Leave to Google</a></li>
         </main>
       </body>
   );
