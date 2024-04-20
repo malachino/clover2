@@ -37,6 +37,7 @@ function App() {
                 -Cleaned up the navigation bar            <br></br>
                 -Added functionality for multiple pages   <br></br>
                 -Filled content into each page            <br></br>
+                -Implemented keyboard support             <br></br>
             </pre>
         </main>
         {/* ///////////////////////////////////////////////////////////////////////////////////// */}
