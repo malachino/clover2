@@ -61,27 +61,9 @@ main {
   text-align: center;
 }
 
-.TopBar b{
-  text-align:left;
-  color: rgb(33, 155, 8);
-  background-color: rgb(22, 22, 22);
-  text-decoration: none;
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: x-large;
-  font-weight: 800;
-  padding-top: 18px;
-  padding-bottom: 24px;
-  padding-left: 36px;
-  padding-right: 36px;
-  display: block;
-  text-align: center;
-}
-
 .TopBar a:hover{
   background-color: rgb(20, 20, 20);;
 }
-
-
 
 .TopBar li{
   float: left;
@@ -90,17 +72,19 @@ main {
 p {
   color: rgb(0, 0, 0);
   font-weight: 400;
-  padding-top: 0px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-bottom:10px;
 }
 
 h2 {
-  color: rgb(0, 0, 0);
-  font-weight: 500;
+  padding: 50px;
   padding-bottom: 0px;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
 }
 
 c {
-   
   color:  rgb(145, 145, 145);
   background-color: rgb(35, 35, 35);
   border-color: rgb(25, 25, 25) ;
@@ -113,6 +97,10 @@ c {
   padding-right: 50px;
 }
 
+img {
+  display: inline-block;
+  margin: 50px;
+}
 
 @layer utilities {
   .text-balance {
