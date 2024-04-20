@@ -30,7 +30,7 @@ function App() {
         </main>
         <pre>
                 Email:       maldbad@outlook.com <br></br>
-                LinkedIn:  <a href='https://www.linkedin.com/in/malachi-o/'>linkedin.com/malachi-o</a>
+                {/* LinkedIn:  <a href='https://www.linkedin.com/in/malachi-o/'>linkedin.com/malachi-o</a> */}
         </pre>
         {/* ///////////////////////////////////////////////////////////////////////////////////// */}
       </body>
