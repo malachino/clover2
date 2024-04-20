@@ -1,23 +1,13 @@
 import Image from "next/image";
-
 import React from 'react';
-
-
+import './globals.css';
 import cookie from './images/cookie.png'
 import controller from './images/controller.png'
 import headphones from './images/headphones.png'
 
-import './globals.css';
-
-declare module "*.png" 
-
 function App() {
-  
-  
-  
 
   return (
-    <>
       <body>
 
         <nav className='TopBar'>
@@ -61,15 +51,8 @@ function App() {
                   height={80}
                   alt="controller"
               />
-            
         </main>
-            
-            
-        
-
       </body>
-    </>
-    
   );
 }
 
