@@ -33,7 +33,7 @@ function App() {
                     <a href='https://www.youtube.com/@HistoriaCivilis'>Historia Civilis</a> <br></br>
                     <a href='https://www.youtube.com/@Vsauce'>Vsauce</a> <br></br>
                     <a href='https://www.youtube.com/@Pomplamoose'>Pomplamoose</a> <br></br>
-                    <a href='https://www.youtube.com/@shadowatnoon/videos'>shadowatnoon</a> <br></br>
+                    <a href='https://www.youtube.com/@shadowatnoon'>shadowatnoon</a> <br></br>
                     <a href='https://www.youtube.com/@ScaryPockets'>Scary Pockets</a> <br></br>
                     <a href='https://www.youtube.com/@jayskullz'>jay skullz</a> <br></br>
                     <a href='https://www.youtube.com/@vlogbrothers'>vlogbrothers</a> <br></br>
