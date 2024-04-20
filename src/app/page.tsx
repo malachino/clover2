@@ -43,22 +43,22 @@ function App() {
             
               <Image
                   src="/images/headphones.png"
-                  width={200}
-                  height={200}
+                  width={80}
+                  height={80}
                   alt="headphones"
               />  
 
               <Image
                   src="/images/cookie.png"
-                  width={200}
-                  height={200}
+                  width={80}
+                  height={80}
                   alt="cookie"
               />
 
               <Image
                   src="/images/controller.png"
-                  width={200}
-                  height={200}
+                  width={80}
+                  height={80}
                   alt="controller"
               />
             
