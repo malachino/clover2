@@ -27,9 +27,8 @@ function App() {
             My name is Malachi. I like making stuff, from music to games to cookies.          <br></br>
             Incidentally, I also like listening to music, playing games, and eating cookies.  
             </p>
+            <hr></hr>
             
-            {/* <h1 className='text-x1 font-bold mt-4'>Which do you like the best?</h1>
-             */}
             
               <Image
                   src="/images/headphones.png"
