@@ -33,7 +33,7 @@ function App() {
             <pre>
                 Changes from 1.0 include:                 <br></br>
                 -Switched to light theme                  <br></br>
-                -Added "Things to Read" section           <br></br>
+                -Added Things to Read section             <br></br>
                 -Cleaned up the navigation bar            <br></br>
                 -Added functionality for multiple pages   <br></br>
                 -Filled content into each page            <br></br>
